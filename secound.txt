@@ -2,6 +2,10 @@ sdn oiJF J;ASKD SDIOJ ;LKC [D CJ
 dvdv
 zxcvs
 asd
+<<<<<<< HEAD
 asd
 sdf
 aS
+=======
+asd
+>>>>>>> personal2
